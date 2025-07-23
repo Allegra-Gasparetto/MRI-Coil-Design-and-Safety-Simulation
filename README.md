@@ -4,12 +4,12 @@ This project presents a complete simulation-based solution to the design and ana
 
 ## Notebook
 All tasks are completed and documented in a single Jupyter Notebook.
-- **`MRIHardware.ipynb`**  
-  Contains all simulations, plots, and theoretical explanations across the following parts:
-  - Part A: B₀ Coil Construction
-  - Part B: B₀ Field Safety Analysis
-  - Part C: Gz Coil Construction
-  - Part D: Gz Field Safety Analysis
+**`MRIHardware.ipynb`**  
+Contains all simulations, plots, and theoretical explanations across the following parts:
+- Part A: B₀ Coil Construction
+- Part B: B₀ Field Safety Analysis
+- Part C: Gz Coil Construction
+- Part D: Gz Field Safety Analysis
 
 ## Requirements
 - Python 3.8+
